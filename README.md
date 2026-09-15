@@ -32,8 +32,8 @@ We back founders early and build beside them: **idea → grant → MVP → incub
 Every application gets a reply within 5 business days: **[apply here](https://zkprime-capital.xyz/?utm_source=github&utm_medium=profile&utm_campaign=grants#apply)**.
 
 ### Repositories
-- [`awesome-web3-grants`](https://github.com/zack-0x/awesome-web3-grants) — curated list of active web3 grant programs (2026)
-- [`web3-grant-application-template`](https://github.com/zack-0x/web3-grant-application-template) — the one-page application format grant committees actually read
+- [`awesome-web3-grants`](https://github.com/zkprimecapital/awesome-web3-grants) — curated list of active web3 grant programs (2026)
+- [`web3-grant-application-template`](https://github.com/zkprimecapital/web3-grant-application-template) — the one-page application format grant committees actually read
 
 ### Verified
 [PitchBook](https://pitchbook.com/profiles/investor/606739-33) · [Crunchbase](https://www.crunchbase.com/organization/zk-prime-capital) · UK entity: Prime Capital Ltd, [Companies House 15617870](https://find-and-update.company-information.service.gov.uk/company/15617870)
