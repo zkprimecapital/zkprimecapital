@@ -42,6 +42,12 @@ Every application gets a reply within 5 business days: **[apply here](https://zk
 
 More at [zkprime-capital.xyz/journal](https://zkprime-capital.xyz/journal/).
 
+### Founder resources on the site
+- [Web3 grants & funding FAQ](https://zkprime-capital.xyz/faq/) — 30+ answers: amounts, equity, application format, what happens after a grant
+- [Grants by ecosystem](https://zkprime-capital.xyz/grants/chains/) — programs for builders on Ethereum, Arbitrum, Optimism, Solana, Starknet, Sui, Aptos, Polkadot and more
+- [Program guides](https://zkprime-capital.xyz/grants/programs/) — 26 active programs: amounts, focus, how to apply
+- Grant program page in 中文 · 한국어 · 日本語 · Español · Português · Türkçe · Tiếng Việt · Indonesia · Français · Deutsch: https://zkprime-capital.xyz/grants/
+
 ### Repositories
 - [`awesome-web3-grants`](https://github.com/zkprimecapital/awesome-web3-grants) — curated list of active web3 grant programs (2026), re-checked September 2026
 - [`web3-grant-application-template`](https://github.com/zkprimecapital/web3-grant-application-template) — the one-page application format grant committees actually read
