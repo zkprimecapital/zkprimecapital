@@ -35,10 +35,10 @@ Every application gets a reply within 5 business days: **[apply here](https://zk
 **[Web3 Grants Tracker](https://zkprime-capital.xyz/tracker/?utm_source=github&utm_medium=profile&utm_campaign=grants) — re-checked September 2026.** One table of active grant programs across ecosystems, L2s, DAOs and VC grants, with ticket sizes and stage.
 
 ### Latest from the journal
+- [How to write grant milestones that get approved (with examples)](https://zkprime-capital.xyz/journal/grant-milestones.html) — Oct 15, 2026
+- [Grant or pre-seed? How early web3 and AI-agent teams should choose in 2026](https://zkprime-capital.xyz/journal/grant-or-pre-seed.html) — Oct 15, 2026
 - [Your grant got rejected. Here is the 14-day playbook to get funded anyway](https://zkprime-capital.xyz/journal/rejected-grant-playbook.html) — Sep 27, 2026
 - [Agent summer is over. The stack is consolidating.](https://zkprime-capital.xyz/journal/consolidation.html) — thesis, 8 Sep 2026
-- [Why a venture fund hosts poker nights](https://zkprime-capital.xyz/journal/poker.html) — note, 1 Sep 2026
-- [Why we're all-in on on-chain AI agents](https://zkprime-capital.xyz/journal/agents.html) — thesis, 26 Aug 2026
 
 More at [zkprime-capital.xyz/journal](https://zkprime-capital.xyz/journal/).
 
